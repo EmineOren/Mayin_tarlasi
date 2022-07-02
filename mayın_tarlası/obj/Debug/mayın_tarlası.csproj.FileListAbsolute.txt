@@ -1,0 +1,10 @@
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\bin\Debug\mayın_tarlası.exe.config
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\bin\Debug\mayın_tarlası.exe
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\bin\Debug\mayın_tarlası.pdb
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\obj\Debug\mayın_tarlası.csproj.AssemblyReference.cache
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\obj\Debug\mayın_tarlası.Form1.resources
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\obj\Debug\mayın_tarlası.Properties.Resources.resources
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\obj\Debug\mayın_tarlası.csproj.GenerateResource.cache
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\obj\Debug\mayın_tarlası.csproj.CoreCompileInputs.cache
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\obj\Debug\mayın_tarlası.exe
+C:\Users\Kullanici\source\repos\mayın_tarlası\mayın_tarlası\obj\Debug\mayın_tarlası.pdb
